@@ -1,0 +1,5 @@
+.tableGame {
+    & div {
+        display: flex;
+    }
+}
